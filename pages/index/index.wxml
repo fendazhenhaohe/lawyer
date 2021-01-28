@@ -1,0 +1,6 @@
+<view>
+  <swiper style="height:{{height}}px" vertical="{{vertical}}">
+    <swiper-item>111111111111</swiper-item>
+    <swiper-item>222222222</swiper-item>
+  </swiper>
+</view>
